@@ -1,6 +1,6 @@
-# x.y - Template
+# 2.1 - Statistica
 
-Repository for "Template".
+Repository for "Statistica".
 
 
 ## Use instructions
